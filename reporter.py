@@ -627,8 +627,9 @@ def generate_html(
     output_path="index.html",
 ):
     import datetime as _dt
-    today   = report.get("date", str(_dt.date.today()))
-    now_str = _dt.datetime.now().strftime("%Y-%m-%d %H:%M")
+    _TW = _dt.timezone(_dt.timedelta(hours=8))
+    today   = report.get("date", str(_dt.datetime.now(_TW).date()))
+    now_str = _dt.datetime.now(_TW).strftime("%Y-%m-%d %H:%M")
     total   = report.get("sources", {}).get("google_news", 0)
     h1_n    = report.get("sources", {}).get("h1", 0)
     h12_n   = report.get("sources", {}).get("h12", 0)
