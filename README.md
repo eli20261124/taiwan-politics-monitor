@@ -1,7 +1,7 @@
 # 🏛️ 台灣政經戰情室
 **Taiwan Finance & Politics Intelligence Monitor**
 
-自動抓取 Google News RSS，分析台灣政治、金融輿情，並生成互動式 HTML 儀表板。
+自動抓取 Google News RSS，分析台灣政治、金融輿情，並生成互動式 HTML 儀表板。**每小時由 GitHub Actions 自動更新**，部署至 GitHub Pages。
 
 ---
 
@@ -16,6 +16,9 @@
 | 🏙️ 六都熱度分析 | 台北、新北、桃園、台中、台南、高雄 |
 | 📊 流量排行榜 | 結合時效性 + 關鍵字密度計算熱度分數 |
 | 🔒 PII 過濾 | 自動遮蔽 email、電話、身分證字號 |
+| 🌏 全球市場行情 | 亞洲 / 美股 / 大宗商品 10 檔指數即時報價（yfinance） |
+| ⏰ 每小時自動刷新 | GitHub Actions 排程，commit 更新後自動重新部署 |
+| 🛡️ 容錯抓取 | 單一來源逾時不影響整體儀表板產出 |
 
 ---
 
@@ -76,17 +79,22 @@ open index.html   # macOS
 
 ```
 .
-├── monitor.py        # 主程式入口
-├── fetcher.py        # Google News RSS 抓取
-├── analyzer.py       # NLP 分析（jieba 斷詞、政黨偵測、六都分析）
-├── reporter.py       # HTML 報告生成
-├── security.py       # PII 過濾（email / 電話 / 身分證）
-├── config.py         # 環境設定
-├── requirements.txt  # Python 依賴
-├── .env.example      # 環境變數範例
+├── monitor.py              # 主程式入口
+├── fetcher.py              # Google News RSS 抓取 + 市場資料彙整（容錯）
+├── analyzer.py             # NLP 分析（jieba 斷詞、政黨偵測、六都分析）
+├── reporter.py             # HTML 報告生成（含右側欄市場 + 行事曆）
+├── security.py             # PII 過濾（email / 電話 / 身分證）
+├── config.py               # 環境設定
+├── requirements.txt        # Python 依賴
+├── .env.example            # 環境變數範例
 └── .github/
     └── workflows/
-        └── deploy.yml  # GitHub Pages 自動部署
+        ├── main.yml        # ⏰ 每小時執行 monitor.py 並 commit/push
+        └── deploy.yml      # 🚀 Push 到 main 後自動部署至 GitHub Pages
+modules/
+└── market/
+    ├── global_markets.py   # 10 檔全球指數抓取（Asia / USA / Commodities）
+    └── tw_index.py         # 向下相容 shim
 ```
 
 ---
@@ -106,15 +114,28 @@ open index.html   # macOS
 | `feedparser` | 解析 RSS Feed |
 | `jieba` | 繁體中文斷詞 |
 | `python-dotenv` | 讀取 `.env` 設定 |
+| `yfinance` | 全球股市 / 大宗商品即時行情 |
 
 ---
 
 ## 🌐 GitHub Pages 部署
 
-Push 到 `main` 分支後，GitHub Actions 會自動將 `index.html` 部署至 GitHub Pages。
+Push 到 `main` 分支後，`deploy.yml` 會自動將 `index.html` 部署至 GitHub Pages。
 
 設定方式：GitHub repo → Settings → Pages → Source: GitHub Actions
 
 ---
 
-*自動生成的儀表板每次執行後會覆蓋 `index.html`，推送至 GitHub 即可更新網頁。*
+## ⏰ 自動更新機制
+
+`main.yml` 每整點執行一次（UTC `0 * * * *`）：
+
+1. 執行 `python monitor.py` 重新抓取新聞與市場資料
+2. 若 `index.html` 或 `daily_report.json` 有變動，自動 commit 並 push
+3. Push 觸發 `deploy.yml`，更新 GitHub Pages
+
+> 可在 GitHub repo → Actions → **Hourly Dashboard Update** → **Run workflow** 手動觸發。
+
+---
+
+*儀表板每小時自動刷新，無需手動操作。*
