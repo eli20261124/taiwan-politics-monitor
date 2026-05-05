@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T18:10:04.058606+08:00",
+  "generated_at": "2026-05-06T01:45:04.678495+08:00",
   "timezone": "Asia/Taipei",
   "tw": [
     {
@@ -15,13 +15,13 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-05T18:10:05.130699+08:00"
+      "fetched_at": "2026-05-06T01:45:05.506349+08:00"
     }
   ],
   "intl": [
     {
-      "event_id": "us_1_2026-05-07",
-      "date": "2026-05-07",
+      "event_id": "us_1_2026-05-08",
+      "date": "2026-05-08",
       "time": "20:00",
       "title": "US CPI Release",
       "event_name": "US CPI Release",
@@ -31,11 +31,11 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-05T18:10:05.271429+08:00"
+      "fetched_at": "2026-05-06T01:45:06.289466+08:00"
     },
     {
-      "event_id": "eu_4_2026-05-08",
-      "date": "2026-05-08",
+      "event_id": "eu_4_2026-05-09",
+      "date": "2026-05-09",
       "time": "17:00",
       "title": "EU CPI Flash Estimate",
       "event_name": "EU CPI Flash Estimate",
@@ -45,11 +45,11 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-05T18:10:05.271478+08:00"
+      "fetched_at": "2026-05-06T01:45:06.289505+08:00"
     },
     {
-      "event_id": "us_2_2026-05-09",
-      "date": "2026-05-09",
+      "event_id": "us_2_2026-05-10",
+      "date": "2026-05-10",
       "time": "20:00",
       "title": "US Non-farm Payrolls",
       "event_name": "US Non-farm Payrolls",
@@ -59,11 +59,11 @@
       "category": "employment",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-05T18:10:05.271451+08:00"
+      "fetched_at": "2026-05-06T01:45:06.289483+08:00"
     },
     {
-      "event_id": "us_3_2026-05-10",
-      "date": "2026-05-10",
+      "event_id": "us_3_2026-05-11",
+      "date": "2026-05-11",
       "time": "02:00",
       "title": "Fed Speaker / FOMC Commentary",
       "event_name": "Fed Speaker / FOMC Commentary",
@@ -73,11 +73,11 @@
       "category": "central_bank",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-05T18:10:05.271465+08:00"
+      "fetched_at": "2026-05-06T01:45:06.289495+08:00"
     },
     {
-      "event_id": "gb_5_2026-05-11",
-      "date": "2026-05-11",
+      "event_id": "gb_5_2026-05-12",
+      "date": "2026-05-12",
       "time": "14:00",
       "title": "UK GDP / Economic Update",
       "event_name": "UK GDP / Economic Update",
@@ -87,7 +87,7 @@
       "category": "gdp",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-05T18:10:05.271491+08:00"
+      "fetched_at": "2026-05-06T01:45:06.289514+08:00"
     }
   ]
 }
