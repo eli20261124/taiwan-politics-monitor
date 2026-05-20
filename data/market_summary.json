@@ -1,25 +1,26 @@
 {
   "status": "ok",
   "timezone": "Asia/Taipei",
-  "updated_at": "2026-05-21T04:27:43.158840+08:00",
+  "updated_at": "2026-05-21T07:20:44.324106+08:00",
   "groups": [
     {
       "label": "Asia",
       "count": 4,
-      "active": 4,
+      "active": 3,
       "items": [
         {
           "symbol": "^TWII",
           "name": "Taiwan",
           "group": "Asia",
-          "price": NaN,
-          "change": NaN,
-          "change_percent": NaN,
-          "direction": "down",
-          "updated_at": "2026-05-21T04:27:42.928172+08:00",
+          "price": null,
+          "change": null,
+          "change_percent": null,
+          "direction": "flat",
+          "updated_at": "2026-05-21T07:20:43.638242+08:00",
           "timezone": "Asia/Taipei",
-          "source": "yfinance",
-          "status": "ok"
+          "source": "fallback",
+          "status": "unavailable",
+          "message": "database is locked"
         },
         {
           "symbol": "^N225",
@@ -29,7 +30,7 @@
           "change": NaN,
           "change_percent": NaN,
           "direction": "down",
-          "updated_at": "2026-05-21T04:27:43.119477+08:00",
+          "updated_at": "2026-05-21T07:20:44.071338+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -42,7 +43,7 @@
           "change": -244.38,
           "change_percent": -3.25,
           "direction": "down",
-          "updated_at": "2026-05-21T04:27:42.950118+08:00",
+          "updated_at": "2026-05-21T07:20:44.067226+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -55,7 +56,7 @@
           "change": NaN,
           "change_percent": NaN,
           "direction": "down",
-          "updated_at": "2026-05-21T04:27:42.918065+08:00",
+          "updated_at": "2026-05-21T07:20:44.062484+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -75,7 +76,7 @@
           "change": 79.36,
           "change_percent": 1.08,
           "direction": "up",
-          "updated_at": "2026-05-21T04:27:42.905933+08:00",
+          "updated_at": "2026-05-21T07:20:44.080589+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -88,7 +89,7 @@
           "change": 399.65,
           "change_percent": 1.54,
           "direction": "up",
-          "updated_at": "2026-05-21T04:27:42.922878+08:00",
+          "updated_at": "2026-05-21T07:20:44.041638+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -101,7 +102,7 @@
           "change": 507.79,
           "change_percent": 4.49,
           "direction": "up",
-          "updated_at": "2026-05-21T04:27:42.913521+08:00",
+          "updated_at": "2026-05-21T07:20:44.080919+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -117,11 +118,11 @@
           "symbol": "GC=F",
           "name": "Gold",
           "group": "Commodities",
-          "price": 4548.5,
-          "change": 42.2,
-          "change_percent": 0.94,
+          "price": 4539.5,
+          "change": 33.2,
+          "change_percent": 0.74,
           "direction": "up",
-          "updated_at": "2026-05-21T04:27:42.903702+08:00",
+          "updated_at": "2026-05-21T07:20:44.050842+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -130,11 +131,11 @@
           "symbol": "BZ=F",
           "name": "Brent Oil",
           "group": "Commodities",
-          "price": 105.04,
-          "change": -6.24,
-          "change_percent": -5.61,
+          "price": 105.46,
+          "change": -5.82,
+          "change_percent": -5.23,
           "direction": "down",
-          "updated_at": "2026-05-21T04:27:43.126646+08:00",
+          "updated_at": "2026-05-21T07:20:44.043501+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -143,11 +144,11 @@
           "symbol": "CL=F",
           "name": "WTI Oil",
           "group": "Commodities",
-          "price": 98.53,
-          "change": -9.24,
-          "change_percent": -8.57,
+          "price": 99.11,
+          "change": -8.66,
+          "change_percent": -8.04,
           "direction": "down",
-          "updated_at": "2026-05-21T04:27:43.158114+08:00",
+          "updated_at": "2026-05-21T07:20:44.323384+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
