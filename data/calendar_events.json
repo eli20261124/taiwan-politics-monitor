@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T07:15:20.002343+08:00",
+  "generated_at": "2026-05-26T12:19:04.365109+08:00",
   "timezone": "Asia/Taipei",
   "tw": [
     {
@@ -15,7 +15,22 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-26T07:15:21.592781+08:00"
+      "fetched_at": "2026-05-26T12:19:05.953275+08:00"
+    },
+    {
+      "event_id": "tw_6805_2026-06-01",
+      "company_id": "6805",
+      "company_name": "雅悅會館(台北市南港區經貿二路166號中國信託金",
+      "date": "2026-06-01",
+      "time": "",
+      "title": "雅悅會館(台北市南港區經貿二路166號中國信託金 6805",
+      "country": "TW",
+      "flag": "🇹🇼",
+      "impact": "routine",
+      "source": "yahoo",
+      "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
+      "timezone": "Asia/Taipei",
+      "fetched_at": "2026-05-26T12:19:05.956161+08:00"
     }
   ],
   "intl": [
@@ -31,7 +46,7 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-26T07:15:21.709048+08:00"
+      "fetched_at": "2026-05-26T12:19:06.006175+08:00"
     },
     {
       "event_id": "eu_4_2026-05-29",
@@ -45,7 +60,7 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-26T07:15:21.709089+08:00"
+      "fetched_at": "2026-05-26T12:19:06.006240+08:00"
     },
     {
       "event_id": "us_2_2026-05-30",
@@ -59,7 +74,7 @@
       "category": "employment",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-26T07:15:21.709067+08:00"
+      "fetched_at": "2026-05-26T12:19:06.006217+08:00"
     },
     {
       "event_id": "us_3_2026-05-31",
@@ -73,7 +88,7 @@
       "category": "central_bank",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-26T07:15:21.709079+08:00"
+      "fetched_at": "2026-05-26T12:19:06.006228+08:00"
     },
     {
       "event_id": "gb_5_2026-06-01",
@@ -87,7 +102,7 @@
       "category": "gdp",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-26T07:15:21.709100+08:00"
+      "fetched_at": "2026-05-26T12:19:06.006250+08:00"
     }
   ]
 }
