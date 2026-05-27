@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-05-27T18:12:19.717433+08:00",
+  "generated_at": "2026-05-28T00:04:56.339104+08:00",
   "timezone": "Asia/Taipei",
   "tw": [
-    {
-      "event_id": "tw_6271_2026-05-27",
-      "company_id": "6271",
-      "company_name": "悅酒店(台北市信義區松壽路2號)",
-      "date": "2026-05-27",
-      "time": "",
-      "title": "悅酒店(台北市信義區松壽路2號) 6271",
-      "country": "TW",
-      "flag": "🇹🇼",
-      "impact": "routine",
-      "source": "yahoo",
-      "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
-      "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-27T18:12:20.940252+08:00"
-    },
     {
       "event_id": "tw_2454_2026-05-28",
       "company_id": "2454",
@@ -30,28 +15,13 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-27T18:12:20.941739+08:00"
-    },
-    {
-      "event_id": "tw_6805_2026-06-01",
-      "company_id": "6805",
-      "company_name": "雅悅會館(台北市南港區經貿二路166號中國信託金",
-      "date": "2026-06-01",
-      "time": "",
-      "title": "雅悅會館(台北市南港區經貿二路166號中國信託金 6805",
-      "country": "TW",
-      "flag": "🇹🇼",
-      "impact": "routine",
-      "source": "yahoo",
-      "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
-      "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-27T18:12:20.945904+08:00"
+      "fetched_at": "2026-05-28T00:04:57.637253+08:00"
     }
   ],
   "intl": [
     {
-      "event_id": "us_1_2026-05-29",
-      "date": "2026-05-29",
+      "event_id": "us_1_2026-05-30",
+      "date": "2026-05-30",
       "time": "20:00",
       "title": "US CPI Release",
       "event_name": "US CPI Release",
@@ -61,11 +31,11 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-27T18:12:21.011462+08:00"
+      "fetched_at": "2026-05-28T00:04:57.770173+08:00"
     },
     {
-      "event_id": "eu_4_2026-05-30",
-      "date": "2026-05-30",
+      "event_id": "eu_4_2026-05-31",
+      "date": "2026-05-31",
       "time": "17:00",
       "title": "EU CPI Flash Estimate",
       "event_name": "EU CPI Flash Estimate",
@@ -75,11 +45,11 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-27T18:12:21.011508+08:00"
+      "fetched_at": "2026-05-28T00:04:57.770218+08:00"
     },
     {
-      "event_id": "us_2_2026-05-31",
-      "date": "2026-05-31",
+      "event_id": "us_2_2026-06-01",
+      "date": "2026-06-01",
       "time": "20:00",
       "title": "US Non-farm Payrolls",
       "event_name": "US Non-farm Payrolls",
@@ -89,11 +59,11 @@
       "category": "employment",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-27T18:12:21.011486+08:00"
+      "fetched_at": "2026-05-28T00:04:57.770195+08:00"
     },
     {
-      "event_id": "us_3_2026-06-01",
-      "date": "2026-06-01",
+      "event_id": "us_3_2026-06-02",
+      "date": "2026-06-02",
       "time": "02:00",
       "title": "Fed Speaker / FOMC Commentary",
       "event_name": "Fed Speaker / FOMC Commentary",
@@ -103,11 +73,11 @@
       "category": "central_bank",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-27T18:12:21.011497+08:00"
+      "fetched_at": "2026-05-28T00:04:57.770207+08:00"
     },
     {
-      "event_id": "gb_5_2026-06-02",
-      "date": "2026-06-02",
+      "event_id": "gb_5_2026-06-03",
+      "date": "2026-06-03",
       "time": "14:00",
       "title": "UK GDP / Economic Update",
       "event_name": "UK GDP / Economic Update",
@@ -117,7 +87,7 @@
       "category": "gdp",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-27T18:12:21.011517+08:00"
+      "fetched_at": "2026-05-28T00:04:57.770228+08:00"
     }
   ]
 }
