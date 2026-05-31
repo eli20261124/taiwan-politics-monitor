@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "timezone": "Asia/Taipei",
-  "updated_at": "2026-05-31T07:06:55.188237+08:00",
+  "updated_at": "2026-05-31T12:44:29.067433+08:00",
   "groups": [
     {
       "label": "Asia",
@@ -16,7 +16,7 @@
           "change": 1096.5,
           "change_percent": 2.51,
           "direction": "up",
-          "updated_at": "2026-05-31T07:06:54.972249+08:00",
+          "updated_at": "2026-05-31T12:44:28.997652+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -29,7 +29,7 @@
           "change": 1636.38,
           "change_percent": 2.53,
           "direction": "up",
-          "updated_at": "2026-05-31T07:06:54.961646+08:00",
+          "updated_at": "2026-05-31T12:44:28.844532+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -42,7 +42,7 @@
           "change": 290.86,
           "change_percent": 3.55,
           "direction": "up",
-          "updated_at": "2026-05-31T07:06:55.013841+08:00",
+          "updated_at": "2026-05-31T12:44:28.859216+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -55,7 +55,7 @@
           "change": 176.23,
           "change_percent": 0.7,
           "direction": "up",
-          "updated_at": "2026-05-31T07:06:55.043015+08:00",
+          "updated_at": "2026-05-31T12:44:28.854584+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -75,7 +75,7 @@
           "change": 16.43,
           "change_percent": 0.22,
           "direction": "up",
-          "updated_at": "2026-05-31T07:06:54.997393+08:00",
+          "updated_at": "2026-05-31T12:44:28.914290+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -88,7 +88,7 @@
           "change": 55.15,
           "change_percent": 0.2,
           "direction": "up",
-          "updated_at": "2026-05-31T07:06:54.978969+08:00",
+          "updated_at": "2026-05-31T12:44:28.863396+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -101,7 +101,7 @@
           "change": 0.24,
           "change_percent": 0.0,
           "direction": "up",
-          "updated_at": "2026-05-31T07:06:55.003464+08:00",
+          "updated_at": "2026-05-31T12:44:28.803615+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -117,11 +117,11 @@
           "symbol": "GC=F",
           "name": "Gold",
           "group": "Commodities",
-          "price": 4560.5,
-          "change": 61.2,
-          "change_percent": 1.36,
+          "price": 4593.0,
+          "change": 93.7,
+          "change_percent": 2.08,
           "direction": "up",
-          "updated_at": "2026-05-31T07:06:55.025721+08:00",
+          "updated_at": "2026-05-31T12:44:28.811045+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -130,11 +130,11 @@
           "symbol": "BZ=F",
           "name": "Brent Oil",
           "group": "Commodities",
-          "price": 92.05,
-          "change": -1.66,
-          "change_percent": -1.77,
+          "price": 91.12,
+          "change": -2.59,
+          "change_percent": -2.76,
           "direction": "down",
-          "updated_at": "2026-05-31T07:06:55.082710+08:00",
+          "updated_at": "2026-05-31T12:44:29.008821+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -147,7 +147,7 @@
           "change": -1.54,
           "change_percent": -1.73,
           "direction": "down",
-          "updated_at": "2026-05-31T07:06:55.187399+08:00",
+          "updated_at": "2026-05-31T12:44:29.066683+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
