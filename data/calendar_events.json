@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T22:04:37.751116+08:00",
+  "generated_at": "2026-06-01T01:18:07.506520+08:00",
   "timezone": "Asia/Taipei",
   "tw": [
     {
@@ -15,7 +15,7 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-31T22:04:39.504354+08:00"
+      "fetched_at": "2026-06-01T01:18:08.889677+08:00"
     },
     {
       "event_id": "tw_3702_2026-06-01",
@@ -30,7 +30,7 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-31T22:04:39.505501+08:00"
+      "fetched_at": "2026-06-01T01:18:08.890455+08:00"
     },
     {
       "event_id": "tw_5215_2026-06-01",
@@ -45,7 +45,7 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-31T22:04:39.505726+08:00"
+      "fetched_at": "2026-06-01T01:18:08.890570+08:00"
     },
     {
       "event_id": "tw_6213_2026-06-01",
@@ -60,7 +60,7 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-31T22:04:39.505840+08:00"
+      "fetched_at": "2026-06-01T01:18:08.890649+08:00"
     },
     {
       "event_id": "tw_6584_2026-06-01",
@@ -75,13 +75,13 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-31T22:04:39.506340+08:00"
+      "fetched_at": "2026-06-01T01:18:08.890994+08:00"
     }
   ],
   "intl": [
     {
-      "event_id": "us_1_2026-06-02",
-      "date": "2026-06-02",
+      "event_id": "us_1_2026-06-03",
+      "date": "2026-06-03",
       "time": "20:00",
       "title": "US CPI Release",
       "event_name": "US CPI Release",
@@ -91,11 +91,11 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-31T22:04:39.628622+08:00"
+      "fetched_at": "2026-06-01T01:18:08.939410+08:00"
     },
     {
-      "event_id": "eu_4_2026-06-03",
-      "date": "2026-06-03",
+      "event_id": "eu_4_2026-06-04",
+      "date": "2026-06-04",
       "time": "17:00",
       "title": "EU CPI Flash Estimate",
       "event_name": "EU CPI Flash Estimate",
@@ -105,11 +105,11 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-31T22:04:39.628665+08:00"
+      "fetched_at": "2026-06-01T01:18:08.939454+08:00"
     },
     {
-      "event_id": "us_2_2026-06-04",
-      "date": "2026-06-04",
+      "event_id": "us_2_2026-06-05",
+      "date": "2026-06-05",
       "time": "20:00",
       "title": "US Non-farm Payrolls",
       "event_name": "US Non-farm Payrolls",
@@ -119,11 +119,11 @@
       "category": "employment",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-31T22:04:39.628641+08:00"
+      "fetched_at": "2026-06-01T01:18:08.939431+08:00"
     },
     {
-      "event_id": "us_3_2026-06-05",
-      "date": "2026-06-05",
+      "event_id": "us_3_2026-06-06",
+      "date": "2026-06-06",
       "time": "02:00",
       "title": "Fed Speaker / FOMC Commentary",
       "event_name": "Fed Speaker / FOMC Commentary",
@@ -133,11 +133,11 @@
       "category": "central_bank",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-31T22:04:39.628653+08:00"
+      "fetched_at": "2026-06-01T01:18:08.939443+08:00"
     },
     {
-      "event_id": "gb_5_2026-06-06",
-      "date": "2026-06-06",
+      "event_id": "gb_5_2026-06-07",
+      "date": "2026-06-07",
       "time": "14:00",
       "title": "UK GDP / Economic Update",
       "event_name": "UK GDP / Economic Update",
@@ -147,7 +147,7 @@
       "category": "gdp",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-05-31T22:04:39.628676+08:00"
+      "fetched_at": "2026-06-01T01:18:08.939476+08:00"
     }
   ]
 }
