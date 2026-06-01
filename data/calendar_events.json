@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T13:06:28.035973+08:00",
+  "generated_at": "2026-06-01T19:52:09.181534+08:00",
   "timezone": "Asia/Taipei",
   "tw": [
     {
@@ -15,7 +15,7 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T13:06:29.325703+08:00"
+      "fetched_at": "2026-06-01T19:52:10.849985+08:00"
     },
     {
       "event_id": "tw_3702_2026-06-01",
@@ -30,22 +30,22 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T13:06:29.326762+08:00"
+      "fetched_at": "2026-06-01T19:52:10.851216+08:00"
     },
     {
-      "event_id": "tw_5215_2026-06-01",
-      "company_id": "5215",
+      "event_id": "tw_4958_2026-06-01",
+      "company_id": "4958",
       "company_name": "悅會館(台北市南港區經貿二路166號中信金融園區",
       "date": "2026-06-01",
       "time": "",
-      "title": "悅會館(台北市南港區經貿二路166號中信金融園區 5215",
+      "title": "悅會館(台北市南港區經貿二路166號中信金融園區 4958",
       "country": "TW",
       "flag": "🇹🇼",
       "impact": "routine",
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T13:06:29.326919+08:00"
+      "fetched_at": "2026-06-01T19:52:10.851399+08:00"
     },
     {
       "event_id": "tw_6213_2026-06-01",
@@ -60,7 +60,7 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T13:06:29.327023+08:00"
+      "fetched_at": "2026-06-01T19:52:10.851578+08:00"
     },
     {
       "event_id": "tw_6584_2026-06-01",
@@ -75,7 +75,7 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T13:06:29.327485+08:00"
+      "fetched_at": "2026-06-01T19:52:10.852118+08:00"
     }
   ],
   "intl": [
@@ -91,7 +91,7 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T13:06:29.399790+08:00"
+      "fetched_at": "2026-06-01T19:52:10.913136+08:00"
     },
     {
       "event_id": "eu_4_2026-06-04",
@@ -105,7 +105,7 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T13:06:29.399832+08:00"
+      "fetched_at": "2026-06-01T19:52:10.913182+08:00"
     },
     {
       "event_id": "us_2_2026-06-05",
@@ -119,7 +119,7 @@
       "category": "employment",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T13:06:29.399810+08:00"
+      "fetched_at": "2026-06-01T19:52:10.913158+08:00"
     },
     {
       "event_id": "us_3_2026-06-06",
@@ -133,7 +133,7 @@
       "category": "central_bank",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T13:06:29.399822+08:00"
+      "fetched_at": "2026-06-01T19:52:10.913171+08:00"
     },
     {
       "event_id": "gb_5_2026-06-07",
@@ -147,7 +147,7 @@
       "category": "gdp",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T13:06:29.399842+08:00"
+      "fetched_at": "2026-06-01T19:52:10.913193+08:00"
     }
   ]
 }
