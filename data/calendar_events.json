@@ -1,87 +1,72 @@
 {
-  "generated_at": "2026-06-01T19:52:09.181534+08:00",
+  "generated_at": "2026-06-02T01:57:49.193521+08:00",
   "timezone": "Asia/Taipei",
   "tw": [
     {
-      "event_id": "tw_2409_2026-06-01",
-      "company_id": "2409",
-      "company_name": "W飯店",
-      "date": "2026-06-01",
+      "event_id": "tw_2330_2026-06-02",
+      "company_id": "2330",
+      "company_name": "台積電",
+      "date": "2026-06-02",
       "time": "",
-      "title": "W飯店 2409",
+      "title": "台積電 2330 法說/財報",
       "country": "TW",
       "flag": "🇹🇼",
       "impact": "routine",
-      "source": "yahoo",
+      "source": "yahoo-fallback",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T19:52:10.849985+08:00"
+      "fetched_at": "2026-06-02T01:57:50.340402+08:00"
     },
     {
-      "event_id": "tw_3702_2026-06-01",
-      "company_id": "3702",
-      "company_name": "雅悅會館 (台北市南港區經貿二路166號中國信託",
-      "date": "2026-06-01",
+      "event_id": "tw_2317_2026-06-04",
+      "company_id": "2317",
+      "company_name": "鴻海",
+      "date": "2026-06-04",
       "time": "",
-      "title": "雅悅會館 (台北市南港區經貿二路166號中國信託 3702",
+      "title": "鴻海 2317 法說/財報",
       "country": "TW",
       "flag": "🇹🇼",
       "impact": "routine",
-      "source": "yahoo",
+      "source": "yahoo-fallback",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T19:52:10.851216+08:00"
+      "fetched_at": "2026-06-02T01:57:50.340412+08:00"
     },
     {
-      "event_id": "tw_4958_2026-06-01",
-      "company_id": "4958",
-      "company_name": "悅會館(台北市南港區經貿二路166號中信金融園區",
-      "date": "2026-06-01",
+      "event_id": "tw_2454_2026-06-06",
+      "company_id": "2454",
+      "company_name": "聯發科",
+      "date": "2026-06-06",
       "time": "",
-      "title": "悅會館(台北市南港區經貿二路166號中信金融園區 4958",
+      "title": "聯發科 2454 法說/財報",
       "country": "TW",
       "flag": "🇹🇼",
       "impact": "routine",
-      "source": "yahoo",
+      "source": "yahoo-fallback",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T19:52:10.851399+08:00"
+      "fetched_at": "2026-06-02T01:57:50.340418+08:00"
     },
     {
-      "event_id": "tw_6213_2026-06-01",
-      "company_id": "6213",
-      "company_name": "雅悅會館 (台北市南港區經貿二路166號中國信託",
-      "date": "2026-06-01",
+      "event_id": "tw_1301_2026-06-08",
+      "company_id": "1301",
+      "company_name": "台塑",
+      "date": "2026-06-08",
       "time": "",
-      "title": "雅悅會館 (台北市南港區經貿二路166號中國信託 6213",
+      "title": "台塑 1301 法說/財報",
       "country": "TW",
       "flag": "🇹🇼",
       "impact": "routine",
-      "source": "yahoo",
+      "source": "yahoo-fallback",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T19:52:10.851578+08:00"
-    },
-    {
-      "event_id": "tw_6584_2026-06-01",
-      "company_id": "6584",
-      "company_name": "雅悅會館(台北市南港區經貿二路166號中國信託金",
-      "date": "2026-06-01",
-      "time": "",
-      "title": "雅悅會館(台北市南港區經貿二路166號中國信託金 6584",
-      "country": "TW",
-      "flag": "🇹🇼",
-      "impact": "routine",
-      "source": "yahoo",
-      "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
-      "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T19:52:10.852118+08:00"
+      "fetched_at": "2026-06-02T01:57:50.340423+08:00"
     }
   ],
   "intl": [
     {
-      "event_id": "us_1_2026-06-03",
-      "date": "2026-06-03",
+      "event_id": "us_1_2026-06-04",
+      "date": "2026-06-04",
       "time": "20:00",
       "title": "US CPI Release",
       "event_name": "US CPI Release",
@@ -91,11 +76,11 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T19:52:10.913136+08:00"
+      "fetched_at": "2026-06-02T01:57:50.419018+08:00"
     },
     {
-      "event_id": "eu_4_2026-06-04",
-      "date": "2026-06-04",
+      "event_id": "eu_4_2026-06-05",
+      "date": "2026-06-05",
       "time": "17:00",
       "title": "EU CPI Flash Estimate",
       "event_name": "EU CPI Flash Estimate",
@@ -105,11 +90,11 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T19:52:10.913182+08:00"
+      "fetched_at": "2026-06-02T01:57:50.419060+08:00"
     },
     {
-      "event_id": "us_2_2026-06-05",
-      "date": "2026-06-05",
+      "event_id": "us_2_2026-06-06",
+      "date": "2026-06-06",
       "time": "20:00",
       "title": "US Non-farm Payrolls",
       "event_name": "US Non-farm Payrolls",
@@ -119,11 +104,11 @@
       "category": "employment",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T19:52:10.913158+08:00"
+      "fetched_at": "2026-06-02T01:57:50.419038+08:00"
     },
     {
-      "event_id": "us_3_2026-06-06",
-      "date": "2026-06-06",
+      "event_id": "us_3_2026-06-07",
+      "date": "2026-06-07",
       "time": "02:00",
       "title": "Fed Speaker / FOMC Commentary",
       "event_name": "Fed Speaker / FOMC Commentary",
@@ -133,11 +118,11 @@
       "category": "central_bank",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T19:52:10.913171+08:00"
+      "fetched_at": "2026-06-02T01:57:50.419050+08:00"
     },
     {
-      "event_id": "gb_5_2026-06-07",
-      "date": "2026-06-07",
+      "event_id": "gb_5_2026-06-08",
+      "date": "2026-06-08",
       "time": "14:00",
       "title": "UK GDP / Economic Update",
       "event_name": "UK GDP / Economic Update",
@@ -147,7 +132,7 @@
       "category": "gdp",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-01T19:52:10.913193+08:00"
+      "fetched_at": "2026-06-02T01:57:50.419070+08:00"
     }
   ]
 }
