@@ -1,21 +1,66 @@
 {
-  "generated_at": "2026-06-10T12:38:17.717702+08:00",
+  "generated_at": "2026-06-10T18:17:02.407357+08:00",
   "timezone": "Asia/Taipei",
   "tw": [
     {
-      "event_id": "tw_2890_2026-06-17",
-      "company_id": "2890",
-      "company_name": "國內",
-      "date": "2026-06-17",
+      "event_id": "tw_2330_2026-06-10",
+      "company_id": "2330",
+      "company_name": "台積電",
+      "date": "2026-06-10",
       "time": "",
-      "title": "國內 2890",
+      "title": "台積電 2330 法說/財報",
       "country": "TW",
       "flag": "🇹🇼",
       "impact": "routine",
-      "source": "yahoo",
+      "source": "yahoo-fallback",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-10T12:38:18.697403+08:00"
+      "fetched_at": "2026-06-10T18:17:03.304448+08:00"
+    },
+    {
+      "event_id": "tw_2317_2026-06-12",
+      "company_id": "2317",
+      "company_name": "鴻海",
+      "date": "2026-06-12",
+      "time": "",
+      "title": "鴻海 2317 法說/財報",
+      "country": "TW",
+      "flag": "🇹🇼",
+      "impact": "routine",
+      "source": "yahoo-fallback",
+      "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
+      "timezone": "Asia/Taipei",
+      "fetched_at": "2026-06-10T18:17:03.304457+08:00"
+    },
+    {
+      "event_id": "tw_2454_2026-06-14",
+      "company_id": "2454",
+      "company_name": "聯發科",
+      "date": "2026-06-14",
+      "time": "",
+      "title": "聯發科 2454 法說/財報",
+      "country": "TW",
+      "flag": "🇹🇼",
+      "impact": "routine",
+      "source": "yahoo-fallback",
+      "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
+      "timezone": "Asia/Taipei",
+      "fetched_at": "2026-06-10T18:17:03.304462+08:00"
+    },
+    {
+      "event_id": "tw_1301_2026-06-16",
+      "company_id": "1301",
+      "company_name": "台塑",
+      "date": "2026-06-16",
+      "time": "",
+      "title": "台塑 1301 法說/財報",
+      "country": "TW",
+      "flag": "🇹🇼",
+      "impact": "routine",
+      "source": "yahoo-fallback",
+      "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
+      "timezone": "Asia/Taipei",
+      "fetched_at": "2026-06-10T18:17:03.304466+08:00"
     }
   ],
   "intl": [
@@ -31,7 +76,7 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-10T12:38:18.757197+08:00"
+      "fetched_at": "2026-06-10T18:17:03.342307+08:00"
     },
     {
       "event_id": "eu_4_2026-06-13",
@@ -45,7 +90,7 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-10T12:38:18.757241+08:00"
+      "fetched_at": "2026-06-10T18:17:03.342339+08:00"
     },
     {
       "event_id": "us_2_2026-06-14",
@@ -59,7 +104,7 @@
       "category": "employment",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-10T12:38:18.757218+08:00"
+      "fetched_at": "2026-06-10T18:17:03.342323+08:00"
     },
     {
       "event_id": "us_3_2026-06-15",
@@ -73,7 +118,7 @@
       "category": "central_bank",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-10T12:38:18.757230+08:00"
+      "fetched_at": "2026-06-10T18:17:03.342331+08:00"
     },
     {
       "event_id": "gb_5_2026-06-16",
@@ -87,7 +132,7 @@
       "category": "gdp",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-10T12:38:18.757250+08:00"
+      "fetched_at": "2026-06-10T18:17:03.342347+08:00"
     }
   ]
 }
