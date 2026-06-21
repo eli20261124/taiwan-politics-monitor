@@ -1,25 +1,26 @@
 {
   "status": "ok",
   "timezone": "Asia/Taipei",
-  "updated_at": "2026-06-21T06:33:40.696468+08:00",
+  "updated_at": "2026-06-21T09:25:38.763181+08:00",
   "groups": [
     {
       "label": "Asia",
       "count": 4,
-      "active": 4,
+      "active": 3,
       "items": [
         {
           "symbol": "^TWII",
           "name": "Taiwan",
           "group": "Asia",
-          "price": 46465.2,
-          "change": 587.81,
-          "change_percent": 1.28,
-          "direction": "up",
-          "updated_at": "2026-06-21T06:33:40.466837+08:00",
+          "price": null,
+          "change": null,
+          "change_percent": null,
+          "direction": "flat",
+          "updated_at": "2026-06-21T09:25:38.318706+08:00",
           "timezone": "Asia/Taipei",
-          "source": "yfinance",
-          "status": "ok"
+          "source": "fallback",
+          "status": "unavailable",
+          "message": "database is locked"
         },
         {
           "symbol": "^N225",
@@ -29,7 +30,7 @@
           "change": 196.57,
           "change_percent": 0.28,
           "direction": "up",
-          "updated_at": "2026-06-21T06:33:40.449853+08:00",
+          "updated_at": "2026-06-21T09:25:38.670326+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -42,7 +43,7 @@
           "change": -11.42,
           "change_percent": -0.13,
           "direction": "down",
-          "updated_at": "2026-06-21T06:33:40.426972+08:00",
+          "updated_at": "2026-06-21T09:25:38.712741+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -55,7 +56,7 @@
           "change": -387.35,
           "change_percent": -1.59,
           "direction": "down",
-          "updated_at": "2026-06-21T06:33:40.535473+08:00",
+          "updated_at": "2026-06-21T09:25:38.675724+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -75,7 +76,7 @@
           "change": 80.48,
           "change_percent": 1.08,
           "direction": "up",
-          "updated_at": "2026-06-21T06:33:40.443293+08:00",
+          "updated_at": "2026-06-21T09:25:38.752723+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -88,7 +89,7 @@
           "change": 496.27,
           "change_percent": 1.91,
           "direction": "up",
-          "updated_at": "2026-06-21T06:33:40.530977+08:00",
+          "updated_at": "2026-06-21T09:25:38.661152+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -97,11 +98,11 @@
           "symbol": "^SOX",
           "name": "PHLX Semiconductor",
           "group": "USA",
-          "price": NaN,
-          "change": NaN,
-          "change_percent": NaN,
-          "direction": "down",
-          "updated_at": "2026-06-21T06:33:40.515481+08:00",
+          "price": 14341.78,
+          "change": 864.71,
+          "change_percent": 6.42,
+          "direction": "up",
+          "updated_at": "2026-06-21T09:25:38.706047+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -121,7 +122,7 @@
           "change": -51.2,
           "change_percent": -1.21,
           "direction": "down",
-          "updated_at": "2026-06-21T06:33:40.502656+08:00",
+          "updated_at": "2026-06-21T09:25:38.606713+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -134,7 +135,7 @@
           "change": 0.74,
           "change_percent": 0.93,
           "direction": "up",
-          "updated_at": "2026-06-21T06:33:40.584268+08:00",
+          "updated_at": "2026-06-21T09:25:38.700451+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -147,7 +148,7 @@
           "change": -0.06,
           "change_percent": -0.08,
           "direction": "down",
-          "updated_at": "2026-06-21T06:33:40.695695+08:00",
+          "updated_at": "2026-06-21T09:25:38.762488+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
