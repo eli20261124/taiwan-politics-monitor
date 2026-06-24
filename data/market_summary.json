@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "timezone": "Asia/Taipei",
-  "updated_at": "2026-06-24T17:19:32.106048+08:00",
+  "updated_at": "2026-06-24T19:09:26.732257+08:00",
   "groups": [
     {
       "label": "Asia",
@@ -16,7 +16,7 @@
           "change": -1057.05,
           "change_percent": -2.24,
           "direction": "down",
-          "updated_at": "2026-06-24T17:19:32.045095+08:00",
+          "updated_at": "2026-06-24T19:09:26.549657+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -29,7 +29,7 @@
           "change": -613.41,
           "change_percent": -0.88,
           "direction": "down",
-          "updated_at": "2026-06-24T17:19:32.051882+08:00",
+          "updated_at": "2026-06-24T19:09:26.545817+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -42,7 +42,7 @@
           "change": 267.18,
           "change_percent": 3.26,
           "direction": "up",
-          "updated_at": "2026-06-24T17:19:32.031508+08:00",
+          "updated_at": "2026-06-24T19:09:26.525876+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -55,7 +55,7 @@
           "change": 75.9,
           "change_percent": 0.33,
           "direction": "up",
-          "updated_at": "2026-06-24T17:19:32.056464+08:00",
+          "updated_at": "2026-06-24T19:09:26.528130+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -75,7 +75,7 @@
           "change": -107.33,
           "change_percent": -1.44,
           "direction": "down",
-          "updated_at": "2026-06-24T17:19:32.033699+08:00",
+          "updated_at": "2026-06-24T19:09:26.523282+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -88,7 +88,7 @@
           "change": -579.56,
           "change_percent": -2.21,
           "direction": "down",
-          "updated_at": "2026-06-24T17:19:32.039679+08:00",
+          "updated_at": "2026-06-24T19:09:26.551343+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -101,7 +101,7 @@
           "change": -1152.21,
           "change_percent": -7.87,
           "direction": "down",
-          "updated_at": "2026-06-24T17:19:32.028798+08:00",
+          "updated_at": "2026-06-24T19:09:26.535348+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -117,11 +117,11 @@
           "symbol": "GC=F",
           "name": "Gold",
           "group": "Commodities",
-          "price": 4088.9,
-          "change": -41.0,
-          "change_percent": -0.99,
+          "price": 4072.3,
+          "change": -57.6,
+          "change_percent": -1.39,
           "direction": "down",
-          "updated_at": "2026-06-24T17:19:32.026456+08:00",
+          "updated_at": "2026-06-24T19:09:26.530127+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -130,11 +130,11 @@
           "symbol": "BZ=F",
           "name": "Brent Oil",
           "group": "Commodities",
-          "price": 75.6,
-          "change": -1.48,
-          "change_percent": -1.92,
+          "price": 75.59,
+          "change": -1.49,
+          "change_percent": -1.93,
           "direction": "down",
-          "updated_at": "2026-06-24T17:19:32.100222+08:00",
+          "updated_at": "2026-06-24T19:09:26.731477+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -143,11 +143,11 @@
           "symbol": "CL=F",
           "name": "WTI Oil",
           "group": "Commodities",
-          "price": 71.77,
-          "change": -1.44,
-          "change_percent": -1.97,
+          "price": 71.83,
+          "change": -1.38,
+          "change_percent": -1.88,
           "direction": "down",
-          "updated_at": "2026-06-24T17:19:32.105336+08:00",
+          "updated_at": "2026-06-24T19:09:26.665749+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
