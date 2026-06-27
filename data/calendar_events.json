@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T02:34:47.812399+08:00",
+  "generated_at": "2026-06-28T04:32:25.555373+08:00",
   "timezone": "Asia/Taipei",
   "tw": [
     {
@@ -15,7 +15,7 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-28T02:34:48.951666+08:00"
+      "fetched_at": "2026-06-28T04:32:27.080865+08:00"
     },
     {
       "event_id": "tw_8422_2026-06-30",
@@ -30,7 +30,7 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-28T02:34:48.951820+08:00"
+      "fetched_at": "2026-06-28T04:32:27.081003+08:00"
     }
   ],
   "intl": [
@@ -46,7 +46,7 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-28T02:34:49.011703+08:00"
+      "fetched_at": "2026-06-28T04:32:27.298940+08:00"
     },
     {
       "event_id": "eu_4_2026-07-01",
@@ -60,7 +60,7 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-28T02:34:49.011747+08:00"
+      "fetched_at": "2026-06-28T04:32:27.298992+08:00"
     },
     {
       "event_id": "us_2_2026-07-02",
@@ -74,7 +74,7 @@
       "category": "employment",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-28T02:34:49.011722+08:00"
+      "fetched_at": "2026-06-28T04:32:27.298964+08:00"
     },
     {
       "event_id": "us_3_2026-07-03",
@@ -88,7 +88,7 @@
       "category": "central_bank",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-28T02:34:49.011735+08:00"
+      "fetched_at": "2026-06-28T04:32:27.298977+08:00"
     },
     {
       "event_id": "gb_5_2026-07-04",
@@ -102,7 +102,7 @@
       "category": "gdp",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-28T02:34:49.011757+08:00"
+      "fetched_at": "2026-06-28T04:32:27.299005+08:00"
     }
   ]
 }
