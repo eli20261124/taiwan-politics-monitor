@@ -1,42 +1,72 @@
 {
-  "generated_at": "2026-06-30T23:03:13.906283+08:00",
+  "generated_at": "2026-07-01T00:50:10.146212+08:00",
   "timezone": "Asia/Taipei",
   "tw": [
     {
-      "event_id": "tw_6870_2026-06-30",
-      "company_id": "6870",
-      "company_name": "國外",
-      "date": "2026-06-30",
+      "event_id": "tw_2330_2026-07-01",
+      "company_id": "2330",
+      "company_name": "台積電",
+      "date": "2026-07-01",
       "time": "",
-      "title": "國外 6870",
+      "title": "台積電 2330 法說/財報",
       "country": "TW",
       "flag": "🇹🇼",
       "impact": "routine",
-      "source": "yahoo",
+      "source": "yahoo-fallback",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-30T23:03:15.253916+08:00"
+      "fetched_at": "2026-07-01T00:50:11.216729+08:00"
     },
     {
-      "event_id": "tw_8422_2026-06-30",
-      "company_id": "8422",
-      "company_name": "國外",
-      "date": "2026-06-30",
+      "event_id": "tw_2317_2026-07-03",
+      "company_id": "2317",
+      "company_name": "鴻海",
+      "date": "2026-07-03",
       "time": "",
-      "title": "國外 8422",
+      "title": "鴻海 2317 法說/財報",
       "country": "TW",
       "flag": "🇹🇼",
       "impact": "routine",
-      "source": "yahoo",
+      "source": "yahoo-fallback",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-30T23:03:15.254264+08:00"
+      "fetched_at": "2026-07-01T00:50:11.216739+08:00"
+    },
+    {
+      "event_id": "tw_2454_2026-07-05",
+      "company_id": "2454",
+      "company_name": "聯發科",
+      "date": "2026-07-05",
+      "time": "",
+      "title": "聯發科 2454 法說/財報",
+      "country": "TW",
+      "flag": "🇹🇼",
+      "impact": "routine",
+      "source": "yahoo-fallback",
+      "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
+      "timezone": "Asia/Taipei",
+      "fetched_at": "2026-07-01T00:50:11.216745+08:00"
+    },
+    {
+      "event_id": "tw_1301_2026-07-07",
+      "company_id": "1301",
+      "company_name": "台塑",
+      "date": "2026-07-07",
+      "time": "",
+      "title": "台塑 1301 法說/財報",
+      "country": "TW",
+      "flag": "🇹🇼",
+      "impact": "routine",
+      "source": "yahoo-fallback",
+      "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
+      "timezone": "Asia/Taipei",
+      "fetched_at": "2026-07-01T00:50:11.216750+08:00"
     }
   ],
   "intl": [
     {
-      "event_id": "us_1_2026-07-02",
-      "date": "2026-07-02",
+      "event_id": "us_1_2026-07-03",
+      "date": "2026-07-03",
       "time": "20:00",
       "title": "US CPI Release",
       "event_name": "US CPI Release",
@@ -46,11 +76,11 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-30T23:03:16.099894+08:00"
+      "fetched_at": "2026-07-01T00:50:12.093245+08:00"
     },
     {
-      "event_id": "eu_4_2026-07-03",
-      "date": "2026-07-03",
+      "event_id": "eu_4_2026-07-04",
+      "date": "2026-07-04",
       "time": "17:00",
       "title": "EU CPI Flash Estimate",
       "event_name": "EU CPI Flash Estimate",
@@ -60,11 +90,11 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-30T23:03:16.099934+08:00"
+      "fetched_at": "2026-07-01T00:50:12.093306+08:00"
     },
     {
-      "event_id": "us_2_2026-07-04",
-      "date": "2026-07-04",
+      "event_id": "us_2_2026-07-05",
+      "date": "2026-07-05",
       "time": "20:00",
       "title": "US Non-farm Payrolls",
       "event_name": "US Non-farm Payrolls",
@@ -74,11 +104,11 @@
       "category": "employment",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-30T23:03:16.099912+08:00"
+      "fetched_at": "2026-07-01T00:50:12.093283+08:00"
     },
     {
-      "event_id": "us_3_2026-07-05",
-      "date": "2026-07-05",
+      "event_id": "us_3_2026-07-06",
+      "date": "2026-07-06",
       "time": "02:00",
       "title": "Fed Speaker / FOMC Commentary",
       "event_name": "Fed Speaker / FOMC Commentary",
@@ -88,11 +118,11 @@
       "category": "central_bank",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-30T23:03:16.099923+08:00"
+      "fetched_at": "2026-07-01T00:50:12.093295+08:00"
     },
     {
-      "event_id": "gb_5_2026-07-06",
-      "date": "2026-07-06",
+      "event_id": "gb_5_2026-07-07",
+      "date": "2026-07-07",
       "time": "14:00",
       "title": "UK GDP / Economic Update",
       "event_name": "UK GDP / Economic Update",
@@ -102,7 +132,7 @@
       "category": "gdp",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-06-30T23:03:16.099944+08:00"
+      "fetched_at": "2026-07-01T00:50:12.093316+08:00"
     }
   ]
 }
