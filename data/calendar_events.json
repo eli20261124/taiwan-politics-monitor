@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T18:31:36.540817+08:00",
+  "generated_at": "2026-07-11T20:27:08.705499+08:00",
   "timezone": "Asia/Taipei",
   "tw": [
     {
@@ -15,7 +15,7 @@
       "source": "yahoo-fallback",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-07-11T18:31:37.667063+08:00"
+      "fetched_at": "2026-07-11T20:27:09.544244+08:00"
     },
     {
       "event_id": "tw_2317_2026-07-13",
@@ -30,7 +30,7 @@
       "source": "yahoo-fallback",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-07-11T18:31:37.667074+08:00"
+      "fetched_at": "2026-07-11T20:27:09.544255+08:00"
     },
     {
       "event_id": "tw_2454_2026-07-15",
@@ -45,7 +45,7 @@
       "source": "yahoo-fallback",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-07-11T18:31:37.667081+08:00"
+      "fetched_at": "2026-07-11T20:27:09.544261+08:00"
     },
     {
       "event_id": "tw_1301_2026-07-17",
@@ -60,7 +60,7 @@
       "source": "yahoo-fallback",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-07-11T18:31:37.667087+08:00"
+      "fetched_at": "2026-07-11T20:27:09.544266+08:00"
     }
   ],
   "intl": [
@@ -76,7 +76,7 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-07-11T18:31:37.749542+08:00"
+      "fetched_at": "2026-07-11T20:27:09.613133+08:00"
     },
     {
       "event_id": "eu_4_2026-07-14",
@@ -90,7 +90,7 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-07-11T18:31:37.749614+08:00"
+      "fetched_at": "2026-07-11T20:27:09.613205+08:00"
     },
     {
       "event_id": "us_2_2026-07-15",
@@ -104,7 +104,7 @@
       "category": "employment",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-07-11T18:31:37.749588+08:00"
+      "fetched_at": "2026-07-11T20:27:09.613166+08:00"
     },
     {
       "event_id": "us_3_2026-07-16",
@@ -118,7 +118,7 @@
       "category": "central_bank",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-07-11T18:31:37.749601+08:00"
+      "fetched_at": "2026-07-11T20:27:09.613186+08:00"
     },
     {
       "event_id": "gb_5_2026-07-17",
@@ -132,7 +132,7 @@
       "category": "gdp",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-07-11T18:31:37.749640+08:00"
+      "fetched_at": "2026-07-11T20:27:09.613223+08:00"
     }
   ]
 }
