@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T13:11:53.749786+08:00",
+  "generated_at": "2026-08-09T15:07:38.552470+08:00",
   "timezone": "Asia/Taipei",
   "tw": [
     {
@@ -15,7 +15,7 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-08-09T13:11:54.971556+08:00"
+      "fetched_at": "2026-08-09T15:07:39.813570+08:00"
     },
     {
       "event_id": "tw_7786_2026-08-14",
@@ -30,7 +30,7 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-08-09T13:11:54.973101+08:00"
+      "fetched_at": "2026-08-09T15:07:39.815450+08:00"
     }
   ],
   "intl": [
@@ -46,7 +46,7 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-08-09T13:11:55.102585+08:00"
+      "fetched_at": "2026-08-09T15:07:39.934081+08:00"
     },
     {
       "event_id": "eu_4_2026-08-12",
@@ -60,7 +60,7 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-08-09T13:11:55.102617+08:00"
+      "fetched_at": "2026-08-09T15:07:39.934128+08:00"
     },
     {
       "event_id": "us_2_2026-08-13",
@@ -74,7 +74,7 @@
       "category": "employment",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-08-09T13:11:55.102600+08:00"
+      "fetched_at": "2026-08-09T15:07:39.934102+08:00"
     },
     {
       "event_id": "us_3_2026-08-14",
@@ -88,7 +88,7 @@
       "category": "central_bank",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-08-09T13:11:55.102609+08:00"
+      "fetched_at": "2026-08-09T15:07:39.934116+08:00"
     },
     {
       "event_id": "gb_5_2026-08-15",
@@ -102,7 +102,7 @@
       "category": "gdp",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-08-09T13:11:55.102625+08:00"
+      "fetched_at": "2026-08-09T15:07:39.934140+08:00"
     }
   ]
 }
