@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "timezone": "Asia/Taipei",
-  "updated_at": "2026-08-15T10:58:58.755634+08:00",
+  "updated_at": "2026-08-15T12:39:02.579713+08:00",
   "groups": [
     {
       "label": "Asia",
       "count": 4,
-      "active": 4,
+      "active": 3,
       "items": [
         {
           "symbol": "^TWII",
@@ -16,7 +16,7 @@
           "change": -210.47,
           "change_percent": -0.46,
           "direction": "down",
-          "updated_at": "2026-08-15T10:58:58.661271+08:00",
+          "updated_at": "2026-08-15T12:39:02.499137+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -29,7 +29,7 @@
           "change": 405.2,
           "change_percent": 0.59,
           "direction": "up",
-          "updated_at": "2026-08-15T10:58:58.670150+08:00",
+          "updated_at": "2026-08-15T12:39:02.515190+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -38,14 +38,15 @@
           "symbol": "^KS11",
           "name": "Korea",
           "group": "Asia",
-          "price": 6977.94,
-          "change": 164.6,
-          "change_percent": 2.42,
-          "direction": "up",
-          "updated_at": "2026-08-15T10:58:58.712335+08:00",
+          "price": null,
+          "change": null,
+          "change_percent": null,
+          "direction": "flat",
+          "updated_at": "2026-08-15T12:39:02.214392+08:00",
           "timezone": "Asia/Taipei",
-          "source": "yfinance",
-          "status": "ok"
+          "source": "fallback",
+          "status": "unavailable",
+          "message": "database is locked"
         },
         {
           "symbol": "^HSI",
@@ -55,7 +56,7 @@
           "change": -279.66,
           "change_percent": -1.1,
           "direction": "down",
-          "updated_at": "2026-08-15T10:58:58.727968+08:00",
+          "updated_at": "2026-08-15T12:39:02.504677+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -75,7 +76,7 @@
           "change": -13.23,
           "change_percent": -0.17,
           "direction": "down",
-          "updated_at": "2026-08-15T10:58:58.695257+08:00",
+          "updated_at": "2026-08-15T12:39:02.496398+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -88,7 +89,7 @@
           "change": -73.87,
           "change_percent": -0.28,
           "direction": "down",
-          "updated_at": "2026-08-15T10:58:58.680271+08:00",
+          "updated_at": "2026-08-15T12:39:02.499569+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -101,7 +102,7 @@
           "change": -38.95,
           "change_percent": -0.31,
           "direction": "down",
-          "updated_at": "2026-08-15T10:58:58.714515+08:00",
+          "updated_at": "2026-08-15T12:39:02.498066+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -111,31 +112,30 @@
     {
       "label": "Commodities",
       "count": 3,
-      "active": 2,
+      "active": 3,
       "items": [
         {
           "symbol": "GC=F",
           "name": "Gold",
           "group": "Commodities",
-          "price": null,
-          "change": null,
-          "change_percent": null,
-          "direction": "flat",
-          "updated_at": "2026-08-15T10:58:58.375607+08:00",
+          "price": 4380.4,
+          "change": 16.8,
+          "change_percent": 0.39,
+          "direction": "up",
+          "updated_at": "2026-08-15T12:39:02.502810+08:00",
           "timezone": "Asia/Taipei",
-          "source": "fallback",
-          "status": "unavailable",
-          "message": "database is locked"
+          "source": "yfinance",
+          "status": "ok"
         },
         {
           "symbol": "BZ=F",
           "name": "Brent Oil",
           "group": "Commodities",
-          "price": 88.59,
-          "change": 1.52,
-          "change_percent": 1.75,
+          "price": 88.52,
+          "change": 1.45,
+          "change_percent": 1.67,
           "direction": "up",
-          "updated_at": "2026-08-15T10:58:58.687474+08:00",
+          "updated_at": "2026-08-15T12:39:02.510096+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -148,7 +148,7 @@
           "change": 1.15,
           "change_percent": 1.42,
           "direction": "up",
-          "updated_at": "2026-08-15T10:58:58.754795+08:00",
+          "updated_at": "2026-08-15T12:39:02.578975+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
