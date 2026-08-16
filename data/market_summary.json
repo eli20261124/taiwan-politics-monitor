@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "timezone": "Asia/Taipei",
-  "updated_at": "2026-08-16T11:07:42.111438+08:00",
+  "updated_at": "2026-08-16T12:42:40.347994+08:00",
   "groups": [
     {
       "label": "Asia",
@@ -16,7 +16,7 @@
           "change": -210.47,
           "change_percent": -0.46,
           "direction": "down",
-          "updated_at": "2026-08-16T11:07:42.022706+08:00",
+          "updated_at": "2026-08-16T12:42:40.187399+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -29,7 +29,7 @@
           "change": 405.2,
           "change_percent": 0.59,
           "direction": "up",
-          "updated_at": "2026-08-16T11:07:42.017201+08:00",
+          "updated_at": "2026-08-16T12:42:40.192167+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -42,7 +42,7 @@
           "change": 164.6,
           "change_percent": 2.42,
           "direction": "up",
-          "updated_at": "2026-08-16T11:07:42.013260+08:00",
+          "updated_at": "2026-08-16T12:42:40.197934+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -55,7 +55,7 @@
           "change": -279.66,
           "change_percent": -1.1,
           "direction": "down",
-          "updated_at": "2026-08-16T11:07:42.033322+08:00",
+          "updated_at": "2026-08-16T12:42:40.207193+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -75,7 +75,7 @@
           "change": -13.23,
           "change_percent": -0.17,
           "direction": "down",
-          "updated_at": "2026-08-16T11:07:42.001445+08:00",
+          "updated_at": "2026-08-16T12:42:40.176642+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -88,7 +88,7 @@
           "change": -73.87,
           "change_percent": -0.28,
           "direction": "down",
-          "updated_at": "2026-08-16T11:07:42.006561+08:00",
+          "updated_at": "2026-08-16T12:42:40.179550+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -101,7 +101,7 @@
           "change": -38.95,
           "change_percent": -0.31,
           "direction": "down",
-          "updated_at": "2026-08-16T11:07:42.015112+08:00",
+          "updated_at": "2026-08-16T12:42:40.174450+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -117,11 +117,11 @@
           "symbol": "GC=F",
           "name": "Gold",
           "group": "Commodities",
-          "price": 4380.4,
-          "change": 16.8,
-          "change_percent": 0.39,
+          "price": 4437.3,
+          "change": 73.7,
+          "change_percent": 1.69,
           "direction": "up",
-          "updated_at": "2026-08-16T11:07:42.004102+08:00",
+          "updated_at": "2026-08-16T12:42:40.172069+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -134,7 +134,7 @@
           "change": 1.45,
           "change_percent": 1.67,
           "direction": "up",
-          "updated_at": "2026-08-16T11:07:42.091901+08:00",
+          "updated_at": "2026-08-16T12:42:40.347313+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -147,7 +147,7 @@
           "change": 1.15,
           "change_percent": 1.42,
           "direction": "up",
-          "updated_at": "2026-08-16T11:07:42.110478+08:00",
+          "updated_at": "2026-08-16T12:42:40.342228+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
