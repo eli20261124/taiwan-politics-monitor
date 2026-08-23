@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "timezone": "Asia/Taipei",
-  "updated_at": "2026-08-23T18:31:22.105327+08:00",
+  "updated_at": "2026-08-23T20:54:34.717881+08:00",
   "groups": [
     {
       "label": "Asia",
@@ -16,7 +16,7 @@
           "change": 290.55,
           "change_percent": 0.65,
           "direction": "up",
-          "updated_at": "2026-08-23T18:31:22.041473+08:00",
+          "updated_at": "2026-08-23T20:54:34.489540+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -29,7 +29,7 @@
           "change": -200.43,
           "change_percent": -0.3,
           "direction": "down",
-          "updated_at": "2026-08-23T18:31:22.047757+08:00",
+          "updated_at": "2026-08-23T20:54:34.557312+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -42,7 +42,7 @@
           "change": 60.37,
           "change_percent": 0.88,
           "direction": "up",
-          "updated_at": "2026-08-23T18:31:22.057349+08:00",
+          "updated_at": "2026-08-23T20:54:34.572438+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -55,7 +55,7 @@
           "change": 310.97,
           "change_percent": 1.21,
           "direction": "up",
-          "updated_at": "2026-08-23T18:31:22.058360+08:00",
+          "updated_at": "2026-08-23T20:54:34.562044+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -75,7 +75,7 @@
           "change": 33.21,
           "change_percent": 0.43,
           "direction": "up",
-          "updated_at": "2026-08-23T18:31:22.045236+08:00",
+          "updated_at": "2026-08-23T20:54:34.552355+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -88,7 +88,7 @@
           "change": 113.29,
           "change_percent": 0.43,
           "direction": "up",
-          "updated_at": "2026-08-23T18:31:22.043503+08:00",
+          "updated_at": "2026-08-23T20:54:34.577409+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -101,7 +101,7 @@
           "change": -59.65,
           "change_percent": -0.51,
           "direction": "down",
-          "updated_at": "2026-08-23T18:31:22.046357+08:00",
+          "updated_at": "2026-08-23T20:54:34.568171+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -121,7 +121,7 @@
           "change": 164.3,
           "change_percent": 3.64,
           "direction": "up",
-          "updated_at": "2026-08-23T18:31:22.051321+08:00",
+          "updated_at": "2026-08-23T20:54:34.582403+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -134,7 +134,7 @@
           "change": 0.61,
           "change_percent": 0.65,
           "direction": "up",
-          "updated_at": "2026-08-23T18:31:22.098923+08:00",
+          "updated_at": "2026-08-23T20:54:34.650485+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -144,10 +144,10 @@
           "name": "WTI Oil",
           "group": "Commodities",
           "price": 87.06,
-          "change": 0.0,
-          "change_percent": 0.0,
-          "direction": "up",
-          "updated_at": "2026-08-23T18:31:22.104796+08:00",
+          "change": -0.77,
+          "change_percent": -0.88,
+          "direction": "down",
+          "updated_at": "2026-08-23T20:54:34.717258+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
