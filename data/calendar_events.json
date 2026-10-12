@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T13:42:20.323476+08:00",
+  "generated_at": "2026-10-12T23:10:15.655778+08:00",
   "timezone": "Asia/Taipei",
   "tw": [
     {
@@ -15,7 +15,22 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-10-12T13:42:21.793478+08:00"
+      "fetched_at": "2026-10-12T23:10:17.045252+08:00"
+    },
+    {
+      "event_id": "tw_7769_2026-10-13",
+      "company_id": "7769",
+      "company_name": "香港Mandarin Oriental Hote",
+      "date": "2026-10-13",
+      "time": "",
+      "title": "香港Mandarin Oriental Hote 7769",
+      "country": "TW",
+      "flag": "🇹🇼",
+      "impact": "routine",
+      "source": "yahoo",
+      "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
+      "timezone": "Asia/Taipei",
+      "fetched_at": "2026-10-12T23:10:17.045700+08:00"
     },
     {
       "event_id": "tw_6190_2026-10-14",
@@ -30,7 +45,22 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-10-12T13:42:21.793934+08:00"
+      "fetched_at": "2026-10-12T23:10:17.045995+08:00"
+    },
+    {
+      "event_id": "tw_6548_2026-10-14",
+      "company_id": "6548",
+      "company_name": "香港Mandarin Oriental Hote",
+      "date": "2026-10-14",
+      "time": "",
+      "title": "香港Mandarin Oriental Hote 6548",
+      "country": "TW",
+      "flag": "🇹🇼",
+      "impact": "routine",
+      "source": "yahoo",
+      "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
+      "timezone": "Asia/Taipei",
+      "fetched_at": "2026-10-12T23:10:17.046088+08:00"
     }
   ],
   "intl": [
@@ -46,7 +76,7 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-10-12T13:42:21.935484+08:00"
+      "fetched_at": "2026-10-12T23:10:17.090658+08:00"
     },
     {
       "event_id": "eu_4_2026-10-15",
@@ -60,7 +90,7 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-10-12T13:42:21.935591+08:00"
+      "fetched_at": "2026-10-12T23:10:17.090698+08:00"
     },
     {
       "event_id": "us_2_2026-10-16",
@@ -74,7 +104,7 @@
       "category": "employment",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-10-12T13:42:21.935525+08:00"
+      "fetched_at": "2026-10-12T23:10:17.090680+08:00"
     },
     {
       "event_id": "us_3_2026-10-17",
@@ -88,7 +118,7 @@
       "category": "central_bank",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-10-12T13:42:21.935577+08:00"
+      "fetched_at": "2026-10-12T23:10:17.090689+08:00"
     },
     {
       "event_id": "gb_5_2026-10-18",
@@ -102,7 +132,7 @@
       "category": "gdp",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-10-12T13:42:21.935602+08:00"
+      "fetched_at": "2026-10-12T23:10:17.090706+08:00"
     }
   ]
 }
