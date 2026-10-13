@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-10-13T23:50:53.611873+08:00",
+  "generated_at": "2026-10-14T05:08:58.438333+08:00",
   "timezone": "Asia/Taipei",
   "tw": [
-    {
-      "event_id": "tw_2356_2026-10-13",
-      "company_id": "2356",
-      "company_name": "香港Mandarin Oriental Hote",
-      "date": "2026-10-13",
-      "time": "",
-      "title": "香港Mandarin Oriental Hote 2356",
-      "country": "TW",
-      "flag": "🇹🇼",
-      "impact": "routine",
-      "source": "yahoo",
-      "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
-      "timezone": "Asia/Taipei",
-      "fetched_at": "2026-10-13T23:50:54.419916+08:00"
-    },
-    {
-      "event_id": "tw_7769_2026-10-13",
-      "company_id": "7769",
-      "company_name": "香港Mandarin Oriental Hote",
-      "date": "2026-10-13",
-      "time": "",
-      "title": "香港Mandarin Oriental Hote 7769",
-      "country": "TW",
-      "flag": "🇹🇼",
-      "impact": "routine",
-      "source": "yahoo",
-      "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
-      "timezone": "Asia/Taipei",
-      "fetched_at": "2026-10-13T23:50:54.421137+08:00"
-    },
     {
       "event_id": "tw_6190_2026-10-14",
       "company_id": "6190",
@@ -45,7 +15,7 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-10-13T23:50:54.426010+08:00"
+      "fetched_at": "2026-10-14T05:08:59.278499+08:00"
     },
     {
       "event_id": "tw_6548_2026-10-14",
@@ -60,13 +30,13 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-10-13T23:50:54.426352+08:00"
+      "fetched_at": "2026-10-14T05:08:59.278649+08:00"
     }
   ],
   "intl": [
     {
-      "event_id": "us_1_2026-10-15",
-      "date": "2026-10-15",
+      "event_id": "us_1_2026-10-16",
+      "date": "2026-10-16",
       "time": "20:00",
       "title": "US CPI Release",
       "event_name": "US CPI Release",
@@ -76,11 +46,11 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-10-13T23:50:54.628402+08:00"
+      "fetched_at": "2026-10-14T05:08:59.482570+08:00"
     },
     {
-      "event_id": "eu_4_2026-10-16",
-      "date": "2026-10-16",
+      "event_id": "eu_4_2026-10-17",
+      "date": "2026-10-17",
       "time": "17:00",
       "title": "EU CPI Flash Estimate",
       "event_name": "EU CPI Flash Estimate",
@@ -90,11 +60,11 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-10-13T23:50:54.628494+08:00"
+      "fetched_at": "2026-10-14T05:08:59.482612+08:00"
     },
     {
-      "event_id": "us_2_2026-10-17",
-      "date": "2026-10-17",
+      "event_id": "us_2_2026-10-18",
+      "date": "2026-10-18",
       "time": "20:00",
       "title": "US Non-farm Payrolls",
       "event_name": "US Non-farm Payrolls",
@@ -104,11 +74,11 @@
       "category": "employment",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-10-13T23:50:54.628465+08:00"
+      "fetched_at": "2026-10-14T05:08:59.482590+08:00"
     },
     {
-      "event_id": "us_3_2026-10-18",
-      "date": "2026-10-18",
+      "event_id": "us_3_2026-10-19",
+      "date": "2026-10-19",
       "time": "02:00",
       "title": "Fed Speaker / FOMC Commentary",
       "event_name": "Fed Speaker / FOMC Commentary",
@@ -118,11 +88,11 @@
       "category": "central_bank",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-10-13T23:50:54.628481+08:00"
+      "fetched_at": "2026-10-14T05:08:59.482602+08:00"
     },
     {
-      "event_id": "gb_5_2026-10-19",
-      "date": "2026-10-19",
+      "event_id": "gb_5_2026-10-20",
+      "date": "2026-10-20",
       "time": "14:00",
       "title": "UK GDP / Economic Update",
       "event_name": "UK GDP / Economic Update",
@@ -132,7 +102,7 @@
       "category": "gdp",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-10-13T23:50:54.628505+08:00"
+      "fetched_at": "2026-10-14T05:08:59.482622+08:00"
     }
   ]
 }
