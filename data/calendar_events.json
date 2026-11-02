@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T23:32:05.636530+08:00",
+  "generated_at": "2026-11-03T07:24:50.660706+08:00",
   "timezone": "Asia/Taipei",
   "tw": [
     {
@@ -15,13 +15,28 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-11-02T23:32:06.706515+08:00"
+      "fetched_at": "2026-11-03T07:24:51.630763+08:00"
+    },
+    {
+      "event_id": "tw_6510_2026-11-10",
+      "company_id": "6510",
+      "company_name": "國內",
+      "date": "2026-11-10",
+      "time": "",
+      "title": "國內 6510",
+      "country": "TW",
+      "flag": "🇹🇼",
+      "impact": "routine",
+      "source": "yahoo",
+      "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
+      "timezone": "Asia/Taipei",
+      "fetched_at": "2026-11-03T07:24:51.631386+08:00"
     }
   ],
   "intl": [
     {
-      "event_id": "us_1_2026-11-04",
-      "date": "2026-11-04",
+      "event_id": "us_1_2026-11-05",
+      "date": "2026-11-05",
       "time": "20:00",
       "title": "US CPI Release",
       "event_name": "US CPI Release",
@@ -31,11 +46,11 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-11-02T23:32:07.102933+08:00"
+      "fetched_at": "2026-11-03T07:24:52.051820+08:00"
     },
     {
-      "event_id": "eu_4_2026-11-05",
-      "date": "2026-11-05",
+      "event_id": "eu_4_2026-11-06",
+      "date": "2026-11-06",
       "time": "17:00",
       "title": "EU CPI Flash Estimate",
       "event_name": "EU CPI Flash Estimate",
@@ -45,11 +60,11 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-11-02T23:32:07.102976+08:00"
+      "fetched_at": "2026-11-03T07:24:52.051859+08:00"
     },
     {
-      "event_id": "us_2_2026-11-06",
-      "date": "2026-11-06",
+      "event_id": "us_2_2026-11-07",
+      "date": "2026-11-07",
       "time": "20:00",
       "title": "US Non-farm Payrolls",
       "event_name": "US Non-farm Payrolls",
@@ -59,11 +74,11 @@
       "category": "employment",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-11-02T23:32:07.102952+08:00"
+      "fetched_at": "2026-11-03T07:24:52.051837+08:00"
     },
     {
-      "event_id": "us_3_2026-11-07",
-      "date": "2026-11-07",
+      "event_id": "us_3_2026-11-08",
+      "date": "2026-11-08",
       "time": "02:00",
       "title": "Fed Speaker / FOMC Commentary",
       "event_name": "Fed Speaker / FOMC Commentary",
@@ -73,11 +88,11 @@
       "category": "central_bank",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-11-02T23:32:07.102964+08:00"
+      "fetched_at": "2026-11-03T07:24:52.051847+08:00"
     },
     {
-      "event_id": "gb_5_2026-11-08",
-      "date": "2026-11-08",
+      "event_id": "gb_5_2026-11-09",
+      "date": "2026-11-09",
       "time": "14:00",
       "title": "UK GDP / Economic Update",
       "event_name": "UK GDP / Economic Update",
@@ -87,7 +102,7 @@
       "category": "gdp",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-11-02T23:32:07.102987+08:00"
+      "fetched_at": "2026-11-03T07:24:52.051869+08:00"
     }
   ]
 }
