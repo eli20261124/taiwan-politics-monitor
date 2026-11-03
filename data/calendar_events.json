@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T07:24:50.660706+08:00",
+  "generated_at": "2026-11-03T14:26:03.064101+08:00",
   "timezone": "Asia/Taipei",
   "tw": [
     {
@@ -15,7 +15,7 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-11-03T07:24:51.630763+08:00"
+      "fetched_at": "2026-11-03T14:26:04.242356+08:00"
     },
     {
       "event_id": "tw_6510_2026-11-10",
@@ -30,7 +30,7 @@
       "source": "yahoo",
       "url": "https://tw.stock.yahoo.com/calendar/earnings-call",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-11-03T07:24:51.631386+08:00"
+      "fetched_at": "2026-11-03T14:26:04.243154+08:00"
     }
   ],
   "intl": [
@@ -46,7 +46,7 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-11-03T07:24:52.051820+08:00"
+      "fetched_at": "2026-11-03T14:26:04.488777+08:00"
     },
     {
       "event_id": "eu_4_2026-11-06",
@@ -60,7 +60,7 @@
       "category": "inflation",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-11-03T07:24:52.051859+08:00"
+      "fetched_at": "2026-11-03T14:26:04.488820+08:00"
     },
     {
       "event_id": "us_2_2026-11-07",
@@ -74,7 +74,7 @@
       "category": "employment",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-11-03T07:24:52.051837+08:00"
+      "fetched_at": "2026-11-03T14:26:04.488796+08:00"
     },
     {
       "event_id": "us_3_2026-11-08",
@@ -88,7 +88,7 @@
       "category": "central_bank",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-11-03T07:24:52.051847+08:00"
+      "fetched_at": "2026-11-03T14:26:04.488808+08:00"
     },
     {
       "event_id": "gb_5_2026-11-09",
@@ -102,7 +102,7 @@
       "category": "gdp",
       "source": "watchlist",
       "timezone": "Asia/Taipei",
-      "fetched_at": "2026-11-03T07:24:52.051869+08:00"
+      "fetched_at": "2026-11-03T14:26:04.488832+08:00"
     }
   ]
 }
