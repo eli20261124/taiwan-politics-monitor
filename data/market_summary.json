@@ -1,25 +1,26 @@
 {
   "status": "ok",
   "timezone": "Asia/Taipei",
-  "updated_at": "2026-11-08T00:16:41.235112+08:00",
+  "updated_at": "2026-11-08T05:42:21.231090+08:00",
   "groups": [
     {
       "label": "Asia",
       "count": 4,
-      "active": 4,
+      "active": 2,
       "items": [
         {
           "symbol": "^TWII",
           "name": "Taiwan",
           "group": "Asia",
-          "price": 39701.64,
-          "change": -1873.08,
-          "change_percent": -4.51,
-          "direction": "down",
-          "updated_at": "2026-11-08T00:16:41.120462+08:00",
+          "price": null,
+          "change": null,
+          "change_percent": null,
+          "direction": "flat",
+          "updated_at": "2026-11-08T05:42:20.877968+08:00",
           "timezone": "Asia/Taipei",
-          "source": "yfinance",
-          "status": "ok"
+          "source": "fallback",
+          "status": "unavailable",
+          "message": "database is locked"
         },
         {
           "symbol": "^N225",
@@ -29,7 +30,7 @@
           "change": -3643.13,
           "change_percent": -5.96,
           "direction": "down",
-          "updated_at": "2026-11-08T00:16:41.114068+08:00",
+          "updated_at": "2026-11-08T05:42:21.212369+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -42,7 +43,7 @@
           "change": -324.11,
           "change_percent": -6.02,
           "direction": "down",
-          "updated_at": "2026-11-08T00:16:41.128453+08:00",
+          "updated_at": "2026-11-08T05:42:21.230610+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -51,14 +52,15 @@
           "symbol": "^HSI",
           "name": "Hong Kong",
           "group": "Asia",
-          "price": 24481.86,
-          "change": -315.12,
-          "change_percent": -1.27,
-          "direction": "down",
-          "updated_at": "2026-11-08T00:16:41.157389+08:00",
+          "price": null,
+          "change": null,
+          "change_percent": null,
+          "direction": "flat",
+          "updated_at": "2026-11-08T05:42:20.877926+08:00",
           "timezone": "Asia/Taipei",
-          "source": "yfinance",
-          "status": "ok"
+          "source": "fallback",
+          "status": "unavailable",
+          "message": "database is locked"
         }
       ]
     },
@@ -75,7 +77,7 @@
           "change": 23.13,
           "change_percent": 0.31,
           "direction": "up",
-          "updated_at": "2026-11-08T00:16:41.094700+08:00",
+          "updated_at": "2026-11-08T05:42:21.219775+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -88,7 +90,7 @@
           "change": 264.43,
           "change_percent": 1.09,
           "direction": "up",
-          "updated_at": "2026-11-08T00:16:41.085863+08:00",
+          "updated_at": "2026-11-08T05:42:21.227327+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -101,7 +103,7 @@
           "change": 379.11,
           "change_percent": 4.21,
           "direction": "up",
-          "updated_at": "2026-11-08T00:16:41.073396+08:00",
+          "updated_at": "2026-11-08T05:42:21.208560+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -121,7 +123,7 @@
           "change": -38.6,
           "change_percent": -0.94,
           "direction": "down",
-          "updated_at": "2026-11-08T00:16:41.112044+08:00",
+          "updated_at": "2026-11-08T05:42:21.205050+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -134,7 +136,7 @@
           "change": 0.03,
           "change_percent": 0.03,
           "direction": "up",
-          "updated_at": "2026-11-08T00:16:41.226101+08:00",
+          "updated_at": "2026-11-08T05:42:21.224090+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -147,7 +149,7 @@
           "change": 0.31,
           "change_percent": 0.34,
           "direction": "up",
-          "updated_at": "2026-11-08T00:16:41.234169+08:00",
+          "updated_at": "2026-11-08T05:42:21.216381+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
