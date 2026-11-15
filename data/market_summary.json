@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "timezone": "Asia/Taipei",
-  "updated_at": "2026-11-16T00:56:17.155316+08:00",
+  "updated_at": "2026-11-16T06:43:14.101750+08:00",
   "groups": [
     {
       "label": "Asia",
@@ -16,7 +16,7 @@
           "change": 583.25,
           "change_percent": 1.35,
           "direction": "up",
-          "updated_at": "2026-11-16T00:56:16.975692+08:00",
+          "updated_at": "2026-11-16T06:43:14.004571+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -29,7 +29,7 @@
           "change": 322.99,
           "change_percent": 0.53,
           "direction": "up",
-          "updated_at": "2026-11-16T00:56:17.006927+08:00",
+          "updated_at": "2026-11-16T06:43:13.989128+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -42,7 +42,7 @@
           "change": -52.2,
           "change_percent": -0.98,
           "direction": "down",
-          "updated_at": "2026-11-16T00:56:16.990606+08:00",
+          "updated_at": "2026-11-16T06:43:14.015674+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -55,7 +55,7 @@
           "change": -370.95,
           "change_percent": -1.55,
           "direction": "down",
-          "updated_at": "2026-11-16T00:56:17.013793+08:00",
+          "updated_at": "2026-11-16T06:43:13.995955+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -75,7 +75,7 @@
           "change": -30.73,
           "change_percent": -0.4,
           "direction": "down",
-          "updated_at": "2026-11-16T00:56:16.967922+08:00",
+          "updated_at": "2026-11-16T06:43:13.973593+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -88,7 +88,7 @@
           "change": -229.82,
           "change_percent": -0.91,
           "direction": "down",
-          "updated_at": "2026-11-16T00:56:16.959757+08:00",
+          "updated_at": "2026-11-16T06:43:13.957228+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -101,7 +101,7 @@
           "change": -360.35,
           "change_percent": -3.43,
           "direction": "down",
-          "updated_at": "2026-11-16T00:56:16.971154+08:00",
+          "updated_at": "2026-11-16T06:43:13.964900+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -121,7 +121,7 @@
           "change": 1.0,
           "change_percent": 0.03,
           "direction": "up",
-          "updated_at": "2026-11-16T00:56:16.964388+08:00",
+          "updated_at": "2026-11-16T06:43:13.980270+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -134,7 +134,7 @@
           "change": 0.02,
           "change_percent": 0.02,
           "direction": "up",
-          "updated_at": "2026-11-16T00:56:17.143858+08:00",
+          "updated_at": "2026-11-16T06:43:14.100728+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
@@ -147,7 +147,7 @@
           "change": -0.18,
           "change_percent": -0.2,
           "direction": "down",
-          "updated_at": "2026-11-16T00:56:17.154320+08:00",
+          "updated_at": "2026-11-16T06:43:14.071998+08:00",
           "timezone": "Asia/Taipei",
           "source": "yfinance",
           "status": "ok"
